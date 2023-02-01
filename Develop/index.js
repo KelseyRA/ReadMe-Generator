@@ -5,6 +5,7 @@ const fs = require('fs/promises');
 const { generateMarkdown } = require("./generateMarkdown");
 
 
+
 // TODO: Create an array of questions for user input
 
 const questions = [{
@@ -45,7 +46,9 @@ const questions = [{
         "MIT",
         "IBM",
         "Apache",
-        "Mozilla"
+        "Mozilla",
+        "Other",
+        "None"
     ],
 
     name: "license"
@@ -76,10 +79,4 @@ function responseHandler(response) {
 inquirer.prompt(questions)
     .then(responseHandler);
 
-
-// TODO: Create a function to initialize app
-function init() { }
-
-// Function call to initialize app
-init();
 

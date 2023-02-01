@@ -1,5 +1,6 @@
-# ka
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+# sndknv;v
+
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Table of Content
   
@@ -11,29 +12,29 @@
   - [Questions](#Questions)
   
   ## Description
-  ka
+  alc a:V
   
   ## Usage
   
-  ka
+  cf bK:Fb Ks :
   
   ## Installation
   
-  ka
+  SJLCb SK Bs
 
   ## Tests
 
-  ka
+  N FCSK VBf;
   
   ## Contributors
   
-  ka
+  KCF Bsb OSF
 
   ## License
 
-  MIT
+  [Mozilla](https://opensource.org/licenses/MPL-2.0)
   
   ## Questions
   
-  - [Email:] (kra7888@gmail.com)
-  - [GitHub:] (https://github.com/KelseyRA)
+  - Email: kra7888@gmail.com
+  - GitHub: https://github.com/KelseyRA
