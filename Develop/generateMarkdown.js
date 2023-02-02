@@ -53,7 +53,7 @@ function renderLicenseLink(license) {
     return ""
 
   }
-  if (license === ' None') {
+  if (license === 'None') {
     return ""
 
   }
