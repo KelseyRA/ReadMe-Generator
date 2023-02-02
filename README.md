@@ -2,9 +2,9 @@
 
 ## Description
 
-This application generates a README using the users input information from the prompted questions. Screenshot of application below.
+This application generates a README using the users input information from the prompted questions. Click on the screenshot below to watch a demo of the application. The demo will open in the browser.
 
-![Screenshot](<./images/Screenshot%20(30).png>)
+[![Click to watch the demo](<./images/Screenshot%20(30).png>)](https://drive.google.com/file/d/1WpYPWQHoBSRmS4e3pzkbcIM8NwC7kTnD/view?usp=share_link)
 
 ## Usage
 
