@@ -1,6 +1,6 @@
 
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// Returns a license badge based on which license is passed in. If there is no license, return an empty string.
+
 function renderLicenseBadge(license) {
 
   if (license === 'Apache') {
@@ -30,8 +30,7 @@ function renderLicenseBadge(license) {
 
 }
 
-// // TODO: Create a function that returns the license link
-// // If there is no license, return an empty string
+// Returns the corresponding link when a license is selected. Will return an empty sting if no license is selected or 'Other' is selected.
 function renderLicenseLink(license) {
 
   if (license === 'Apache') {
@@ -58,16 +57,6 @@ function renderLicenseLink(license) {
     return ""
 
   }
-
-
-  const links = {
-    Apache: '(https://opensource.org/licenses/Apache-2.0)',
-    MIT: '(https://opensource.org/licenses/MIT)',
-    IBM: '(https://opensource.org/licenses/IPL-1.0)',
-    Mozilla: '(https://opensource.org/licenses/MPL-2.0)'
-  }
-
-  return links(license);
 }
 
 
@@ -119,6 +108,8 @@ function generateMarkdown(response) {
 `
 }
 
+
+// Exports README information to index.js file
 
 module.exports = {
 

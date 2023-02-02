@@ -1,6 +1,6 @@
-# sndknv;v
+# README Generator
 
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Table of Content
   
@@ -12,27 +12,27 @@
   - [Questions](#Questions)
   
   ## Description
-  alc a:V
+  This applicaion creates a REAME file via user input information.
   
   ## Usage
   
-  cf bK:Fb Ks :
+  Start the file using the command node index.js and select enter
   
   ## Installation
   
-  SJLCb SK Bs
+  This appliction requires inquirer, fs, and node.js
 
   ## Tests
 
-  N FCSK VBf;
+  None currently 
   
   ## Contributors
   
-  KCF Bsb OSF
+  If you are interesting in contributing to this project please email me.
 
   ## License
 
-  [Mozilla](https://opensource.org/licenses/MPL-2.0)
+  [Apache](https://opensource.org/licenses/Apache-2.0)
   
   ## Questions
   

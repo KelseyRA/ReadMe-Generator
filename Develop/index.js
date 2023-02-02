@@ -1,4 +1,4 @@
-// TODO: Include packages needed for this application
+// Packages needed for application
 
 const inquirer = require('inquirer');
 const fs = require('fs/promises');
@@ -6,7 +6,7 @@ const { generateMarkdown } = require("./generateMarkdown");
 
 
 
-// TODO: Create an array of questions for user input
+// Questions for user.
 
 const questions = [{
 
@@ -66,6 +66,8 @@ const questions = [{
 }
 
 ]
+
+// Function writes file
 
 function responseHandler(response) {
 
