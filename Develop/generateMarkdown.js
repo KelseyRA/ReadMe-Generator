@@ -93,7 +93,7 @@ function generateMarkdown(response) {
 
   ${response.test}
   
-  ## Contributors
+  ## Contribution Instructions
   
   ${response.contribution}
 
